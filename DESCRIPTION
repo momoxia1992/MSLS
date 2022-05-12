@@ -1,0 +1,10 @@
+Package: MSLS
+Type: Package
+Title: Mulrivariate sparse laplacian shrinkage with two graphical structures
+Version: 0.1.0
+Author: Siwei Xia
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package is suitbale for multivariate regression models.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
